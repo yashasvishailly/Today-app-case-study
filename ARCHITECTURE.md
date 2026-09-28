@@ -19,7 +19,7 @@ Today is an on-device Android app. The person works one day at a time toward a n
 - **Wins.** Wins and badges are kept apart from the reward puzzle.
 - **Launcher.** The launcher name is Today. The mark is a morning sun. The interface accent is steel blue on dawn paper.
 
-## Planned flow
+## Day flow
 
 1. The day opens under the title One day at a time, with a named reward waiting as a puzzle.
 2. The person starts timed focus, works a prep task that is still open, or logs a step.
@@ -27,6 +27,13 @@ Today is an on-device Android app. The person works one day at a time toward a n
 4. That completed action reveals a puzzle piece toward the named reward.
 5. Profile can be opened for health, phone, and screen.
 6. Wins can be opened for wins and badges.
+
+## Design choices
+
+- **The piece needs a reason.** Timed focus, an open prep task, or a logged step can reveal one. A timer is one of those paths.
+- **Profile is not the puzzle.** Health, phone, and screen stay in Profile. They are not a substitute for a logged step.
+- **Wins are not pieces.** A badge does not fill the reward.
+- **The public sample stays fictional.** The sample day in the README uses made-up names. A real day stays on the device.
 
 ## Trust boundary
 
@@ -37,4 +44,4 @@ Today is an on-device Android app. The person works one day at a time toward a n
 
 ## Held back
 
-The application source, installable builds, signing material, and every real day of use are private and are not in this repository.
+The Android source, installable builds, signing material, real reward names, real health, phone, and screen notes, and real wins are private and are not in this repository.

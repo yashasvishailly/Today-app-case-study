@@ -47,6 +47,16 @@ Wins lists wins and badges in the same paper system. A badge is drawn as a mark 
 - Do not imply a Play Store listing.
 - Do not fill Profile with invented measurements.
 
+## What the board shows
+
+- The in-app title, One day at a time, and a fictional named reward
+- Puzzle pieces with the three ways to reveal one still in view
+- Profile as health, phone, and screen, with the rows left blank
+- Wins and badges drawn apart from the puzzle
+- A morning-sun mark and a steel-blue accent on dawn paper
+
+It does not show a personal device, a Play Store listing, or a measurement from the prototype.
+
 ## Public boundary
 
 The public visuals are placeholders. Real days, device photos, and application code remain private.
